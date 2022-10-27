@@ -17,10 +17,4 @@ personalmovieDB.movies[prompt('Один из последних фильмов?'
 personalmovieDB.movies[prompt('Какой ещё смотрел фильм за последнее время?')] = prompt('На сколько оценишь его?');
 
 console.log(personalmovieDB);
-
-
-
-
-
-
     
